@@ -1,5 +1,7 @@
 import discord
 
+
+
 # Переменная intents - хранит привилегии бота
 intents = discord.Intents.default()
 # Включаем привелегию на чтение сообщений
